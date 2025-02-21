@@ -18,3 +18,13 @@ print(type({'name': 'John'})) #dictionary
 print(type({9.8, 3.14, 2.7})) #set
 print(type((9.8, 3.14, 2.7))) #tuple
 
+# Exercise level 3 step 2 
+
+#Find an Euclidian distance betweenm (2,3) and (10,8)
+import math 
+p1 = (2,3)
+p2 = (10,8)
+
+# calculate the distance
+
+print(math.dist(p1, p2))
