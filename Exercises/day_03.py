@@ -56,3 +56,15 @@ print('on'not in 'python' and 'on' not in 'dragon')
 word_length = len('python')
 float_word_length = float(word_length)
 string_word_length = str(word_length)
+#17
+#check if number is even or not 
+even_or_not = input("Enter a number: ")
+
+def check_even_or_not(even_or_not):
+    if int(even_or_not) % 2 == 0:
+        print(f'{even_or_not} is an even number')
+    else:
+        print(f'{even_or_not} is not an even number')
+
+check_even_or_not(even_or_not)
+#18
