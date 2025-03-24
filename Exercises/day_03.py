@@ -68,3 +68,5 @@ def check_even_or_not(even_or_not):
 
 check_even_or_not(even_or_not)
 #18
+print(7 // 3 == int(2.7))
+#19
