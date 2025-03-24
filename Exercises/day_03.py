@@ -70,3 +70,5 @@ check_even_or_not(even_or_not)
 #18
 print(7 // 3 == int(2.7))
 #19
+print(type('10') == type(10))
+#20
