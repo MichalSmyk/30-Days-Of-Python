@@ -52,3 +52,7 @@ print(f'on is found in both python and dragon {("on" in "python") and ("on" in "
 print(f'I hope this course is not full of jargon {("jargon" in "I hope this course is not full of jargon")}')
 #15
 print('on'not in 'python' and 'on' not in 'dragon')
+#16
+word_length = len('python')
+float_word_length = float(word_length)
+string_word_length = str(word_length)
