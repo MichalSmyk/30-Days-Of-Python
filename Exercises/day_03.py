@@ -38,3 +38,12 @@ print("Distance is: ", math.sqrt((x2 - x1) ** 2 + (y2 - y1) ** 2))
 #10
 print(slope == slope_2)
 #11
+x = input('Enter x: ')
+
+def value_of_y(x):
+    print(f'The value of y is {x**2 + 6 * x + 9}')
+
+value_of_y(x)
+#12
+
+
