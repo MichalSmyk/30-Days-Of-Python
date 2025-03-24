@@ -46,5 +46,6 @@ def value_of_y(x):
 value_of_y(x)
 #12
 print(len('python') != len('dargon'))
-
+#13
+print(f'on is found in both python and dragon {("on" in "python") and ("on" in "dragon")}')
 
