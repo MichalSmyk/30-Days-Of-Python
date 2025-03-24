@@ -48,4 +48,5 @@ value_of_y(x)
 print(len('python') != len('dargon'))
 #13
 print(f'on is found in both python and dragon {("on" in "python") and ("on" in "dragon")}')
-
+#14
+print(f'I hope this course is not full of jargon {("jargon" in "I hope this course is not full of jargon")}')
