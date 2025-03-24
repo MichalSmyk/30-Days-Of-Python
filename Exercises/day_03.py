@@ -45,5 +45,6 @@ def value_of_y(x):
 
 value_of_y(x)
 #12
+print(len('python') != len('dargon'))
 
 
