@@ -50,3 +50,5 @@ print(len('python') != len('dargon'))
 print(f'on is found in both python and dragon {("on" in "python") and ("on" in "dragon")}')
 #14
 print(f'I hope this course is not full of jargon {("jargon" in "I hope this course is not full of jargon")}')
+#15
+print('on'not in 'python' and 'on' not in 'dragon')
