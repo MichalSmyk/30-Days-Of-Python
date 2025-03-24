@@ -73,3 +73,7 @@ print(7 // 3 == int(2.7))
 print(type('10') == type(10))
 #20
 print(int('9.8') == 10)
+#21
+hours = input('Enter hours: ')
+pay_rate = input('Enter pay rate: ')
+print(f'Your weekly earning is {hours * pay_rate}')
