@@ -24,3 +24,6 @@ print(company[0:6])
 print(company.find('Coding')) #  returns 0
 #11
 print(company.replace('Coding', 'Python'))
+#12
+for_all = 'Python For Everyone'
+print(for_all.replace('Everyone', 'All'))
