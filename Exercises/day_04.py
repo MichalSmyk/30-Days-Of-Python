@@ -29,3 +29,5 @@ for_all = 'Python For Everyone'
 print(for_all.replace('Everyone', 'All'))
 #13
 print(company.split(' '))
+#12
+print('Facebook, Google, Microsoft, Apple, IBM, Oracle, Amazon'.split(','))
