@@ -14,3 +14,8 @@ print(len(company))
 print(company.upper())
 #7
 print(company.lower())
+#8
+print(company.capitalize())
+print(company.title())
+print(company.swapcase())
+
