@@ -4,3 +4,5 @@ print(' '.join(words))
 #2
 words_two = ['Coding', 'For' , 'All' ]
 print(' '.join(words_two))
+#3
+company = 'Coding For All'
