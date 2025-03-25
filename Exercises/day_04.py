@@ -10,3 +10,5 @@ company = 'Coding For All'
 print(company)
 #5
 print(len(company))
+#6
+print(company.upper())
