@@ -18,4 +18,5 @@ print(company.lower())
 print(company.capitalize())
 print(company.title())
 print(company.swapcase())
-
+#9
+print(company[0:6])
