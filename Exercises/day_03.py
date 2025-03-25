@@ -82,3 +82,9 @@ years = input('Enter number of yeard you have lived: ')
 seconds_in_year = 60 * 60 * 24 * 365
 print(f'You have lived for {years * seconds_in_year} seconds')
 #23
+def display_table():
+    print("1 1 1 1 1")
+    for i in range(2,6):
+        print(f"{i} 1 {i} {i ** 2} {1 ** 3}")
+
+display_table()
