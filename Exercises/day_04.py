@@ -8,3 +8,5 @@ print(' '.join(words_two))
 company = 'Coding For All'
 #4
 print(company)
+#5
+print(len(company))
