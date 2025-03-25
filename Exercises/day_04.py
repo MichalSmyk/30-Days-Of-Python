@@ -33,3 +33,5 @@ print(company.split(' '))
 print('Facebook, Google, Microsoft, Apple, IBM, Oracle, Amazon'.split(','))
 #15
 print(company[0])
+#16
+print(company[-1])
