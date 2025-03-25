@@ -21,4 +21,6 @@ print(company.swapcase())
 #9
 print(company[0:6])
 #10
-print(company.find('Coding'))
+print(company.find('Coding')) #  returns 0
+#11
+print(company.replace('Coding', 'Python'))
