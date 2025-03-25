@@ -37,3 +37,6 @@ print(company[0])
 print(company[-1])
 #17
 print(company[10])
+#18
+# Create an acronym or an abbreviation for the name 'Python For Everyone'.
+print(''.join([word[0] for word in company.split(' ')]))
