@@ -47,3 +47,5 @@ print(''.join([word[0] for word in company.split(' ')]))
 print(company.index('C'))
 #21
 print(company.index('F'))
+#22
+print(company.rfind('l'))
