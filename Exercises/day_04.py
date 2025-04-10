@@ -53,3 +53,6 @@ print(company.rfind('l'))
 print("You cannot end a sentence with because because because is a conjunction".index('because'))
 #24
 print("You cannot end a sentence with because because because is a conjunction".rindex('because'))
+#25
+sentence = "You cannot end a sentence with because because because is a conjunction"
+print(sentence[sentence.index('because'):sentence.rindex('because') + len('because')])
