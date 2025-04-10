@@ -70,3 +70,5 @@ print(too_much_space.strip('    '))
 print('30DaysOfPython'.isidentifier()) # false
 print('thirty_days_of_python'.isidentifier()) #true
 #32
+libraries = ['Django', 'Flask', 'Bottle', 'Pyramid', 'Falcon']
+print('# '.join(libraries))
