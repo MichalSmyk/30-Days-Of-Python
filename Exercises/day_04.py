@@ -56,3 +56,6 @@ print("You cannot end a sentence with because because because is a conjunction".
 #25
 sentence = "You cannot end a sentence with because because because is a conjunction"
 print(sentence[sentence.index('because'):sentence.rindex('because') + len('because')])
+#26
+sentence = "You cannot end a sentence with because because because is a conjunction"
+print(sentence.index('because'))
