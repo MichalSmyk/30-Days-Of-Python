@@ -61,3 +61,5 @@ sentence = "You cannot end a sentence with because because because is a conjunct
 print(sentence.index('because'))
 #28
 print(company.startswith('Coding'))
+#29
+print(company.endswith('coding'))
