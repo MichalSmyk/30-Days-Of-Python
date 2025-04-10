@@ -45,3 +45,5 @@ print(''.join([word[0] for word in sentence.split(' ')]))
 print(''.join([word[0] for word in company.split(' ')]))
 #20
 print(company.index('C'))
+#21
+print(company.index('F'))
