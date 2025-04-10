@@ -66,3 +66,7 @@ print(company.endswith('coding'))
 #30
 too_much_space = '    Coding For All      '
 print(too_much_space.strip('    '))
+#31
+print('30DaysOfPython'.isidentifier()) # false
+print('thirty_days_of_python'.isidentifier()) #true
+#32
