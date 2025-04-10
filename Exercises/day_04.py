@@ -63,3 +63,6 @@ print(sentence.index('because'))
 print(company.startswith('Coding'))
 #29
 print(company.endswith('coding'))
+#30
+too_much_space = '    Coding For All      '
+print(too_much_space.strip('    '))
