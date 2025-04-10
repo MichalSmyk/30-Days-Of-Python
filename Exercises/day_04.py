@@ -43,3 +43,5 @@ sentence = 'Python For Everyone'
 print(''.join([word[0] for word in sentence.split(' ')]))
 #19
 print(''.join([word[0] for word in company.split(' ')]))
+#20
+print(company.index('C'))
