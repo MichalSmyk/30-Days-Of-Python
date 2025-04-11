@@ -78,3 +78,9 @@ print(new_line)
 #34
 tab_escape = """Name\t Age\t Country\t City\n Asabeneh 250\t Finland\t Helsinki"""
 print(tab_escape)
+#35
+r = 10
+pi = 3.14
+print(f'radius = {r}')
+print(f'area = {pi} * r ** 2')
+print(f'The area of a circle with radius {r} is {pi * r ** 2} square meters.')
