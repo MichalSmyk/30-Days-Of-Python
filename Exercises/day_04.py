@@ -75,3 +75,6 @@ print('# '.join(libraries))
 #33
 new_line = """I am enjoying this challenge.\n I just wonder what is next."""
 print(new_line)
+#34
+tab_escape = """Name\t Age\t Country\t City\n Asabeneh 250\t Finland\t Helsinki"""
+print(tab_escape)
