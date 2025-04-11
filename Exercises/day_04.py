@@ -72,3 +72,6 @@ print('thirty_days_of_python'.isidentifier()) #true
 #32
 libraries = ['Django', 'Flask', 'Bottle', 'Pyramid', 'Falcon']
 print('# '.join(libraries))
+#33
+new_line = """I am enjoying this challenge.\n I just wonder what is next."""
+print(new_line)
