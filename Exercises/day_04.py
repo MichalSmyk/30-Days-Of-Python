@@ -84,3 +84,13 @@ pi = 3.14
 print(f'radius = {r}')
 print(f'area = {pi} * r ** 2')
 print(f'The area of a circle with radius {r} is {pi * r ** 2} square meters.')
+#36
+a = 8
+b = 6
+print('{} + {} = {}'.format(a, b, a + b))
+print('{} - {} = {}'.format(a, b, a - b))
+print('{} * {} = {}'.format(a, b, a * b))
+print('{} / {} = {}'.format(a, b, a / b))
+print('{} % {} = {}'.format(a, b, a % b))
+print('{} // {} = {}'.format(a, b, a // b))
+print('{} ** {} = {}'.format(a, b, a ** b))
