@@ -14,3 +14,5 @@ mixed_data_types = ['Michal', 29, 180, 'married', 'Brighton']
 it_companies = ['Facebook', 'Google', 'Microsoft', 'Apple', 'IBM', 'Oracle', 'Amazon']
 #7
 print(it_companies)
+#8
+print(len(it_companies))
