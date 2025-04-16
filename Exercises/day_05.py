@@ -16,3 +16,8 @@ it_companies = ['Facebook', 'Google', 'Microsoft', 'Apple', 'IBM', 'Oracle', 'Am
 print(it_companies)
 #8
 print(len(it_companies))
+#9
+middle_index = len(it_companies) // 2
+print(it_companies[0])
+print(it_companies[middle_index])
+print(it_companies[-1])
