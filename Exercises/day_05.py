@@ -25,3 +25,6 @@ print(it_companies[-1])
 it_companies[0] = 'Meta'
 print(it_companies)
 #11
+last_company = len(it_companies)
+it_companies.insert(last_company, 'Twitter')
+print(it_companies)
