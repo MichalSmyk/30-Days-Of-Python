@@ -21,3 +21,7 @@ middle_index = len(it_companies) // 2
 print(it_companies[0])
 print(it_companies[middle_index])
 print(it_companies[-1])
+#10
+it_companies[0] = 'Meta'
+print(it_companies)
+#11
