@@ -28,3 +28,9 @@ print(it_companies)
 last_company = len(it_companies)
 it_companies.insert(last_company, 'Twitter')
 print(it_companies)
+#12
+it_companies = ['Facebook', 'Google', 'Microsoft', 'Apple', 'IBM', 'Oracle', 'Amazon']
+middle_index = len(it_companies) // 2
+it_companies.insert(middle_index, 'ABC')
+print(it_companies)
+
