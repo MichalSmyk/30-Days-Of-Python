@@ -33,4 +33,7 @@ it_companies = ['Facebook', 'Google', 'Microsoft', 'Apple', 'IBM', 'Oracle', 'Am
 middle_index = len(it_companies) // 2
 it_companies.insert(middle_index, 'ABC')
 print(it_companies)
+#13
+upper = it_companies[0].upper()
+print(upper)
 
