@@ -43,3 +43,7 @@ print(joined_companies)
 #15
 does_it_exist = 'Google' in it_companies
 print(does_it_exist)
+#16
+it_companies.sort()
+sorted_companies = it_companies
+print(sorted_companies)
