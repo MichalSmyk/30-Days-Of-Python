@@ -40,3 +40,6 @@ print(upper)
 #Join the it_companies with a string '#;  '
 joined_companies = '#;  '.join(it_companies)
 print(joined_companies)
+#15
+does_it_exist = 'Google' in it_companies
+print(does_it_exist)
