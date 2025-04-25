@@ -36,4 +36,7 @@ print(it_companies)
 #13
 upper = it_companies[0].upper()
 print(upper)
-
+#14
+#Join the it_companies with a string '#;  '
+joined_companies = '#;  '.join(it_companies)
+print(joined_companies)
