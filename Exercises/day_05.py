@@ -59,3 +59,6 @@ print(last_three)
 #20
 middle_company = it_companies[middle_index]
 print(middle_company)
+#21 
+del it_companies[0]
+print(it_companies)
