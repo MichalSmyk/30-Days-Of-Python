@@ -62,3 +62,6 @@ print(middle_company)
 #21 
 del it_companies[0]
 print(it_companies)
+#22
+del it_companies[middle_index]
+print(it_companies)
