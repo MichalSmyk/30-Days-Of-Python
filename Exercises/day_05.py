@@ -51,3 +51,5 @@ print(sorted_companies)
 it_companies.reverse()
 print(it_companies)
 #18
+deleted_companies = it_companies[0:3]
+print(deleted_companies)
