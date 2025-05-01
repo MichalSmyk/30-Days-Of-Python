@@ -47,3 +47,7 @@ print(does_it_exist)
 it_companies.sort()
 sorted_companies = it_companies
 print(sorted_companies)
+#17
+it_companies.reverse()
+print(it_companies)
+#18
