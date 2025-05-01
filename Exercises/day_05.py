@@ -53,3 +53,6 @@ print(it_companies)
 #18
 deleted_companies = it_companies[0:3]
 print(deleted_companies)
+#19
+last_three = it_companies[-3:]
+print(last_three)
