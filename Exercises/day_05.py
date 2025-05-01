@@ -56,3 +56,6 @@ print(deleted_companies)
 #19
 last_three = it_companies[-3:]
 print(last_three)
+#20
+middle_company = it_companies[middle_index]
+print(middle_company)
