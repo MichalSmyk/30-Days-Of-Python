@@ -67,3 +67,7 @@ del it_companies[middle_index]
 print(it_companies)
 #23
 del it_companies[-1]
+#24
+it_companies.clear()
+print(it_companies)
+#25
